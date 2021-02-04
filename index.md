@@ -1,3 +1,3 @@
 # Gabe Haddon-Hill
 
-[Sutton & Barto Exercise Solutions](/Sutton-Barto_RL_Solutions)
+(Chapter 2 Solutions)[https://gabewilliam.github.io/Sutton-Barto_RL_Solutions/html/SB_Chapter2.html]
